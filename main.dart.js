@@ -45910,7 +45910,7 @@ n=t.p
 o=A.a([B.RJ,f,B.S2,s,B.S0,r,B.S_,g,B.RV,q,B.RK,A.bp(p.it(o==null?new A.au(Date.now(),!1):o),l,l,l,B.cl,l,l)],n)
 if(m.d.guA())o.push(B.RQ)
 if(m.d.guA()){g=m.d
-o.push(A.bp(B.e.k(B.e.bn(A.cO(0,0,Date.now()-g.w.a,0).a,864e8)),l,l,l,B.yU,l,l))}g=A.awU(o,!0,!0,!0)
+o.push(A.bp(B.e.k(B.e.bn(A.cO(0,0,Date.now()-g.w.a,0).a,864e8))+" dias",l,l,l,B.yU,l,l))}g=A.awU(o,!0,!0,!0)
 f=o.length
 s=l
 r=A.a([],n)
@@ -93239,7 +93239,7 @@ B.RM=new A.bn("Entrar",null,null,null,null,null,null,null,null)
 B.RN=new A.bn("Contas",null,null,null,null,null,null,null,null)
 B.RO=new A.bn("Tipo de pagamaneto",null,null,null,null,null,null,null,null)
 B.RP=new A.bn("Dinheiro",null,null,null,null,null,null,null,null)
-B.RQ=new A.bn("Entrega em atrso",null,B.yU,null,null,null,null,null,null)
+B.RQ=new A.bn("Entrega em atraso",null,B.yU,null,null,null,null,null,null)
 B.RR=new A.bn("Ok",null,null,null,null,null,null,null,null)
 B.RS=new A.bn("Renovar",null,null,null,null,null,null,null,null)
 B.RT=new A.bn("Sincronizar Dados",null,B.aT,null,null,null,null,null,null)
